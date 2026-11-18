@@ -1,2 +1,8 @@
 # GitTest2026
-First repository in Skriptspråk &amp; Databashantering, Medieinstitutet, 60yhp
+
+First repository in Skriptspråk \& Databashantering, Medieinstitutet, 60yhp
+
+
+
+My name is Kristina. I live in Stockholm.
+
